@@ -1,0 +1,35 @@
+.inst {
+    width: 40%;
+    height: 460px;
+    border-radius: 15%;
+    background: linear-gradient(20deg, rgb(240, 240, 69), rgb(182, 69, 144), rgb(73, 18, 175));
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    border: 35px solid rgb(255, 255, 255);
+    width: 70%;
+    height: 70%;
+    border-radius: 15%;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+.center {
+    border: 35px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+    position: relative;
+    top: 20%;
+} 
+.knopka {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 100%;
+    top: -40%;
+}
